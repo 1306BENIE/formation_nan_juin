@@ -1,0 +1,18 @@
+pip install django
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
